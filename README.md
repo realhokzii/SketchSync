@@ -1,6 +1,6 @@
-What our project is
-File structure
-Goal of app
-Target user
-Key features
-How to run
+1. What our project is
+2. File structure
+3. Goal of app
+4. Target user
+5. Key features
+6. How to run
